@@ -1,7 +1,7 @@
 # Dynamic-Web-App-on-AWS
 
 
-## Background of the Problem
+## Objective of the Project
 
 The primary objective of this project was to deploy a highly available, secure, scalable, and fault-tolerant dynamic website on the Amazon Web Services (AWS) cloud platform. The motivation stemmed from the need for a robust architecture that could handle varying web traffic efficiently, maintain high availability across multiple geographic regions, and ensure strong security for both the hosted assets and data communications.
 
