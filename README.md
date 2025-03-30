@@ -1,5 +1,7 @@
 # Dynamic-Web-App-on-AWS
 
+![Alt text](/Dynamic_Web_App.png)
+
 
 ## Objective of the Project
 
